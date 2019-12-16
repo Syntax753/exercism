@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7e21b89-536f-4d2e-bc58-248dc28c68dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1V4tSiajYk403ztObNI8l9gDv5o" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TwoferTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TwoferTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TwoferTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e21b89-536f-4d2e-bc58-248dc28c68dd" name="Default Changelist" comment="" />
+      <created>1576524197186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576524197186</updated>
+      <workItem from="1576524201707" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" width="811" height="669" key="#Project_Structure" timestamp="1576524461008">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1576524461008" />
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom" timestamp="1576524727174">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1576524727174" />
+    <state width="1398" height="290" key="GridCell.Tab.0.center" timestamp="1576524727174">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1576524727174" />
+    <state width="1398" height="290" key="GridCell.Tab.0.left" timestamp="1576524727173">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1576524727173" />
+    <state width="1398" height="290" key="GridCell.Tab.0.right" timestamp="1576524727174">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1576524727174" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1576524521304">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576524521304" />
+    <state x="623" y="135" key="com.intellij.ide.util.TipDialog" timestamp="1576524226568">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="623" y="135" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1576524226568" />
+  </component>
+</project>
