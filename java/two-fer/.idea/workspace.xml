@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7e21b89-536f-4d2e-bc58-248dc28c68dd" name="Default Changelist" comment="" />
+    <list default="true" id="e7e21b89-536f-4d2e-bc58-248dc28c68dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/dictionaries/syntax.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isogram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isogram/src/main/java/IsogramChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isogram/src/main/java/IsogramChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isogram/src/test/java/IsogramCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isogram/src/test/java/IsogramCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Twofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Twofer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1V4tSiajYk403ztObNI8l9gDv5o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -86,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576524197186</updated>
       <workItem from="1576524201707" duration="525000" />
+      <workItem from="1576608181372" duration="60000" />
     </task>
     <servers />
   </component>
