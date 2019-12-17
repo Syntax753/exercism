@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7e21b89-536f-4d2e-bc58-248dc28c68dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/dictionaries/syntax.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../isogram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../isogram/src/main/java/IsogramChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isogram/src/main/java/IsogramChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../isogram/src/test/java/IsogramCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isogram/src/test/java/IsogramCheckerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="e7e21b89-536f-4d2e-bc58-248dc28c68dd" name="Default Changelist" comment="Ternary operator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Twofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Twofer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1V4tSiajYk403ztObNI8l9gDv5o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,9 +36,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager">
@@ -102,41 +91,65 @@
       <option name="presentableId" value="Default" />
       <updated>1576524197186</updated>
       <workItem from="1576524201707" duration="525000" />
-      <workItem from="1576608181372" duration="60000" />
+      <workItem from="1576608181372" duration="604000" />
     </task>
+    <task id="LOCAL-00001" summary="Ternary operator">
+      <created>1576608272925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576608272925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ternary operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ternary operator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="127" width="811" height="669" key="#Project_Structure" timestamp="1576524461008">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1576524461008" />
-    <state width="1398" height="290" key="GridCell.Tab.0.bottom" timestamp="1576524727174">
+    <state x="351" y="36" key="CommitChangelistDialog2" timestamp="1576608960444">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1576524727174" />
-    <state width="1398" height="290" key="GridCell.Tab.0.center" timestamp="1576524727174">
+    <state x="351" y="36" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576608960444" />
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom" timestamp="1576608437132">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1576524727174" />
-    <state width="1398" height="290" key="GridCell.Tab.0.left" timestamp="1576524727173">
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1576608437132" />
+    <state width="1398" height="290" key="GridCell.Tab.0.center" timestamp="1576608437131">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1576524727173" />
-    <state width="1398" height="290" key="GridCell.Tab.0.right" timestamp="1576524727174">
+    <state width="1398" height="290" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1576608437131" />
+    <state width="1398" height="290" key="GridCell.Tab.0.left" timestamp="1576608437131">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1576524727174" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1576524521304">
+    <state width="1398" height="290" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1576608437131" />
+    <state width="1398" height="290" key="GridCell.Tab.0.right" timestamp="1576608437132">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576524521304" />
-    <state x="623" y="135" key="com.intellij.ide.util.TipDialog" timestamp="1576524226568">
+    <state width="1398" height="290" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1576608437132" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1576608785799">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="623" y="135" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1576524226568" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576608785799" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1576608395727">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576608395727" />
+    <state x="623" y="135" key="com.intellij.ide.util.TipDialog" timestamp="1576608866110">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="623" y="135" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1576608866110" />
+    <state x="503" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576608993880">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="503" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1576608993880" />
   </component>
 </project>
