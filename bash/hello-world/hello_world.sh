@@ -1,3 +1,10 @@
-#!/bin/bash -e
+#!/usr/bin/env bash
 
-echo "Hello, ${@-World}!"
+set -o errexit
+set -o nounset
+
+main() {
+  echo "Hello, World!"
+}
+
+main "$@"
