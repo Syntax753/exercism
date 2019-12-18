@@ -11,7 +11,7 @@
 }
 
 @test "a word" {
-  [[ $BATS_RUN_SKIPPED == true  ]] || skip
+  #[[ $BATS_RUN_SKIPPED == true  ]] || skip
   run bash reverse_string.sh "robot"
 
   [[ $status -eq 0 ]]
