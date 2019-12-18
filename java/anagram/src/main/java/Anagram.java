@@ -8,15 +8,17 @@ class Anagram {
 
     public Anagram(String word) {
         this.word = word;
-        this.sortedWord = sort(word);
+        this.sortedWord = sort(this.word);
     }
 
     public List<String> match(List<String> words) {
-        return words.stream().filter(w -> sortedWord.equals(sort(w))).collect(Collectors.toList());
+        return words.stream()
+                .filter(w -> sortedWord.equalsIgnoreCase(sort(w)))
+                .collect(Collectors.toList());
     }
 
     private String sort(String toSort) {
-        return toSort.toLowerCase().chars()
+        return toSort.chars()
                 .sorted()
                 .collect(StringBuilder::new, StringBuilder::appendCodePoint, StringBuilder::append)
                 .toString();
