@@ -1,4 +1,3 @@
-import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
@@ -16,31 +15,26 @@ public class HammingTest {
         assertEquals(0, new Hamming("", "").getHammingDistance());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testNoDistanceBetweenShortIdenticalStrands() {
         assertEquals(0, new Hamming("A", "A").getHammingDistance());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testCompleteDistanceInSingleLetterDifferentStrands() {
         assertEquals(1, new Hamming("G", "T").getHammingDistance());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testDistanceInLongIdenticalStrands() {
         assertEquals(0, new Hamming("GGACTGAAATCTG", "GGACTGAAATCTG").getHammingDistance());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testDistanceInLongDifferentStrands() {
         assertEquals(9, new Hamming("GGACGGATTCTG", "AGGACGGATTCT").getHammingDistance());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testValidatesFirstStrandNotLonger() {
         expectedException.expect(IllegalArgumentException.class);
@@ -49,7 +43,6 @@ public class HammingTest {
         new Hamming("AATG", "AAA");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testValidatesSecondStrandNotLonger() {
         expectedException.expect(IllegalArgumentException.class);
@@ -58,7 +51,6 @@ public class HammingTest {
         new Hamming("ATA", "AGTG");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testDisallowLeftEmptyStrand() {
         expectedException.expect(IllegalArgumentException.class);
@@ -67,7 +59,6 @@ public class HammingTest {
         new Hamming("", "G");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testDisallowRightEmptyStrand() {
         expectedException.expect(IllegalArgumentException.class);
