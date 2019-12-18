@@ -12,7 +12,7 @@ class Gigasecond {
     }
 
     LocalDateTime getDateTime() {
-        throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
+        return LocalDateTime.now();
     }
 
 }
